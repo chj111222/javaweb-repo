@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/.idea/javaweb.iml" filepath="$PROJECT_DIR$/.idea/javaweb.iml" />
+      <module fileurl="file://$PROJECT_DIR$/javaweb/jsp/jsp.iml" filepath="$PROJECT_DIR$/javaweb/jsp/jsp.iml" />
+      <module fileurl="file://$PROJECT_DIR$/javaweb/myweb2/myweb2.iml" filepath="$PROJECT_DIR$/javaweb/myweb2/myweb2.iml" />
+      <module fileurl="file://$PROJECT_DIR$/javaweb/oa/oa.iml" filepath="$PROJECT_DIR$/javaweb/oa/oa.iml" />
+      <module fileurl="file://$PROJECT_DIR$/javaweb/oa2/oa2.iml" filepath="$PROJECT_DIR$/javaweb/oa2/oa2.iml" />
+      <module fileurl="file://$PROJECT_DIR$/javaweb/oa3/oa3.iml" filepath="$PROJECT_DIR$/javaweb/oa3/oa3.iml" />
+      <module fileurl="file://$PROJECT_DIR$/javaweb/servlet01/servlet01.iml" filepath="$PROJECT_DIR$/javaweb/servlet01/servlet01.iml" />
+      <module fileurl="file://$PROJECT_DIR$/javaweb/servlet02/servlet02.iml" filepath="$PROJECT_DIR$/javaweb/servlet02/servlet02.iml" />
+      <module fileurl="file://$PROJECT_DIR$/javaweb/servlet03/servlet03.iml" filepath="$PROJECT_DIR$/javaweb/servlet03/servlet03.iml" />
+      <module fileurl="file://$PROJECT_DIR$/javaweb/servlet04/servlet04.iml" filepath="$PROJECT_DIR$/javaweb/servlet04/servlet04.iml" />
+      <module fileurl="file://$PROJECT_DIR$/javaweb/servlet05/servlet05.iml" filepath="$PROJECT_DIR$/javaweb/servlet05/servlet05.iml" />
+      <module fileurl="file://$PROJECT_DIR$/javaweb/servlet06/servlet06.iml" filepath="$PROJECT_DIR$/javaweb/servlet06/servlet06.iml" />
+      <module fileurl="file://$PROJECT_DIR$/javaweb/servlet07/servlet07.iml" filepath="$PROJECT_DIR$/javaweb/servlet07/servlet07.iml" />
+      <module fileurl="file://$PROJECT_DIR$/javaweb/servlet08/servlet08.iml" filepath="$PROJECT_DIR$/javaweb/servlet08/servlet08.iml" />
+      <module fileurl="file://$PROJECT_DIR$/javaweb/servlet09/servlet09.iml" filepath="$PROJECT_DIR$/javaweb/servlet09/servlet09.iml" />
+      <module fileurl="file://$PROJECT_DIR$/javaweb/servlet10/servlet10.iml" filepath="$PROJECT_DIR$/javaweb/servlet10/servlet10.iml" />
+      <module fileurl="file://$PROJECT_DIR$/javaweb/servlet11/servlet11.iml" filepath="$PROJECT_DIR$/javaweb/servlet11/servlet11.iml" />
+      <module fileurl="file://$PROJECT_DIR$/javaweb/servlet12/servlet12.iml" filepath="$PROJECT_DIR$/javaweb/servlet12/servlet12.iml" />
+      <module fileurl="file://$PROJECT_DIR$/javaweb/servlet13/servlet13.iml" filepath="$PROJECT_DIR$/javaweb/servlet13/servlet13.iml" />
+      <module fileurl="file://$PROJECT_DIR$/javaweb/servlet14/servlet14.iml" filepath="$PROJECT_DIR$/javaweb/servlet14/servlet14.iml" />
+      <module fileurl="file://$PROJECT_DIR$/javaweb/servlet15/servlet15.iml" filepath="$PROJECT_DIR$/javaweb/servlet15/servlet15.iml" />
+      <module fileurl="file://$PROJECT_DIR$/javaweb/template/template.iml" filepath="$PROJECT_DIR$/javaweb/template/template.iml" />
+    </modules>
+  </component>
+</project>
